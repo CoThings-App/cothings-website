@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  'What is CoThings App'
-date:   '2020-05-02 19:28:00 +0900'
-categories: updates
+categories: [posts, updates]
+tags: [open source, app, elixir, phoenix, swift]
 ---
-CoThings is application to account for current number of people using shared areas or utilities in realtime. The project’s main purpose is avoiding you to visit crowded areas during COVID-19 pandemic if you live in a community.
+**CoThings** is application to account for current number of people using shared areas or utilities in realtime. The project’s main purpose is avoiding you to visit crowded areas during COVID-19 pandemic if you live in a community.
 
 For now, it's only a web application and it needs to update the status of the current room manually. Without any restriction anyone can update the counter in case of people forget to update their status. It uses socket for realtime communication.
 
