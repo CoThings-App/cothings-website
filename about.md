@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-https://rainlab.co.jp
+[About our company](https://rainlab.co.jp/en/company/?ref=cothings.app)
