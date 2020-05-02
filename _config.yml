@@ -13,9 +13,9 @@ description: > # this means to ignore newlines until "baseurl:"
   The project’s main purpose is avoiding you to visit crowded areas during COVID-19 pandemic if you live in a community.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cothings.app" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
-# github_username:  jekyll
-# gitlab_username:  pages
+twitter_username: cothings
+github_username:  rainlab-inc/cothings
+# gitlab_username:  
 
 # Outputting
 permalink: /:categories/:year/:month/:day/:title

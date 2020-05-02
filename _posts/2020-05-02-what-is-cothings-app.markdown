@@ -2,7 +2,7 @@
 layout: post
 title:  "What is CoThings App?"
 date:   2020-05-02 19:28:00 +0900
-categories: jekyll update
+categories: posts
 ---
 CoThings is application to account for current number of people using shared areas or utilities in realtime. The project’s main purpose is avoiding you to visit crowded areas during COVID-19 pandemic if you live in a community.
 
