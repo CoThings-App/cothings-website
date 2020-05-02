@@ -9,12 +9,10 @@
 title: CoThings
 email: info@cothings.app
 description: > # this means to ignore newlines until "baseurl:"
-  CoThings is application to account for current number of people using shared areas or utilities in realtime. 
-  The project’s main purpose is avoiding you to visit crowded areas during COVID-19 pandemic if you live in a community.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cothings.app" # the base hostname & protocol for your site
 twitter_username: cothingsapp
-github_username:  rainlab-inc/cothings
+github_username:  rainlab-inc
 # gitlab_username:  
 
 # Outputting
