@@ -4,6 +4,14 @@ title: Releases
 permalink: /releases/
 ---
 
+# v0.2.0 (2020-05-11)
+
+- Removed single room monitoring, all rooms are updated from home page now
+- Logging Room Usage is optional now (Check the README please)
+- Improved UI a little bit for web
+- Some refactoring
+
+
 # Initial Release v0.1.0 (2020-05-03)
 
 This is very first release of **CoThings** application, it accounts for current number of people using shared areas or utilities in realtime.
