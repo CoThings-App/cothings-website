@@ -3,6 +3,9 @@ layout: page
 title: Releases
 permalink: /releases/
 ---
+# v0.2.1 (2020-05-11)
+- Crash fixed on previous version.
+You have to upgrade it.
 
 # v0.2.0 (2020-05-11)
 
@@ -11,6 +14,7 @@ permalink: /releases/
 - Improved UI a little bit for web
 - Some refactoring
 
+PS: Migrate needed
 
 # Initial Release v0.1.0 (2020-05-03)
 
