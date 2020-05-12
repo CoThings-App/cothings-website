@@ -3,6 +3,10 @@ layout: page
 title: Releases
 permalink: /releases/
 ---
+# v0.2.2 (2020-05-12)
+Minor bug fix:
+ - Wrong last updated room information
+
 # v0.2.1 (2020-05-11)
 - Crash fixed on previous version.
 You have to upgrade it.
