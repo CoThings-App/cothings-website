@@ -4,6 +4,9 @@ title: Releases
 permalink: /releases/
 ---
 # v0.3.0 (2020-05-15)
+Bug fix.
+
+# v0.3.0 (2020-05-15)
 Application Configuration for mobile or web clients. It creates a dynamic configuration json file on `https://{server_url}/config.json` based on Application Environment Variables.
 
 Related issue: https://github.com/rainlab-inc/cothings/issues/10
