@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Demo
-permalink: /deno/
+permalink: /demo/
 ---
 
 A demo for web application can be accessed using following links.
