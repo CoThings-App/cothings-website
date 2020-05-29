@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 ## Contributors (In no order)
- - [Umur Gedik](https://github.com/umurgdk) (iOS app & Design)
+ - [Umur Gedik](https://github.com/umurgdk) (iOS & Designs)
  - [Furkan Mustafa](https://github.com/furkanmustafa) (Dev OPs)
- - [Jay Zisch](https://github.com/jz709u) (iOS app)
+ - [Jay Zisch](https://github.com/jz709u) (iOS)
  - [Nesim Tunç](https://github.com/nesimtunc) (Backend, Frontend & iOS)
 
 ## Open Source Libraries
