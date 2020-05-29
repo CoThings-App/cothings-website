@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Source Codes
+title: Code
 permalink: /code/
 ---
 
