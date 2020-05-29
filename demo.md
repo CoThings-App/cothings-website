@@ -10,9 +10,10 @@ A demo for web application can be accessed using following links.
 
 To manage rooms;
  - redirect to `/rooms` page in the browser
- - enter these credentials
-    username: root
-    password: toor
+ - enter these credentials:
+ 
+  **username:** root
+  **password:** toor
 
 ## Notes:
 - Room deletion doesn't work. Issue can be seen [here.](https://github.com/rainlab-inc/cothings/issues/14)
