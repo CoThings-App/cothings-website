@@ -5,11 +5,21 @@ permalink: /about/
 ---
 
 ## Contributors (In no order)
- - [Umur Gedik](https://github.com/umurgdk) (iOS & Designs)
- - [Furkan Mustafa](https://github.com/furkanmustafa) (Dev OPs)
- - [Jay Zisch](https://github.com/jz709u) (iOS)
- - [Nesim Tunç](https://github.com/nesimtunc) (Backend, Frontend & iOS)
- - [Neslihan Tunç](https://github.com/designess) (Various Logo & Application Icon Designing)
 
+### Backend & Frontend
+ - [Nesim Tunç](https://github.com/nesimtunc)
 
-Last Updated: 2020/05/29
+### Design
+ - [Neslihan Tunç](https://github.com/designess) (Various logo & application icon Designing)
+ - [Umur Gedik](https://github.com/umurgdk) (Web & Mobile App Designing)
+
+### iOS
+ - [Umur Gedik](https://github.com/umurgdk)
+ - [Jay Zisch](https://github.com/jz709u)
+ - [Nesim Tunç](https://github.com/nesimtunc)
+
+### Other
+ - Furkan Mustafa (Support)
+ 
+
+Last Updated: 2020/05/30
