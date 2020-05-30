@@ -10,8 +10,8 @@ permalink: /about/
  - [Nesim Tunç](https://github.com/nesimtunc)
 
 ### Design
- - [Neslihan Tunç](https://github.com/designess) (Various logo & application icon Designing)
- - [Umur Gedik](https://github.com/umurgdk) (Web & Mobile App Designing)
+ - [Neslihan Tunç](https://github.com/designess) (Various logo & application icon designing)
+ - [Umur Gedik](https://github.com/umurgdk) (Web & Mobile application designing)
 
 ### iOS
  - [Umur Gedik](https://github.com/umurgdk)
@@ -20,6 +20,6 @@ permalink: /about/
 
 ### Other
  - Furkan Mustafa (Support)
- 
+
 
 Last Updated: 2020/05/30

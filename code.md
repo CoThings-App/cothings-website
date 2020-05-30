@@ -19,6 +19,6 @@ permalink: /code/
  - [swift-nio-zlib-support v1.0.0](https://github.com/apple/swift-nio-zlib-support)
 
 ## Releases
-  Release related information and source codes can be found on each reporsitory home page.
+  Release related information and source codes can be found on each reporsitory's home page.
 
 Last Updated: 2020/05/30
