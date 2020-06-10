@@ -17,9 +17,10 @@ permalink: /about/
  - [Umur Gedik](https://github.com/umurgdk)
  - [Jay Zisch](https://github.com/jz709u)
  - [Nesim Tunç](https://github.com/nesimtunc)
+ - [Quentin Diebold](https://github.com/Quentus123)
 
 ### Other
  - Furkan Mustafa (Support)
 
 
-Last Updated: 2020/05/30
+Last Updated: 2020/06/10
