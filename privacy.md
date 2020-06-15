@@ -4,13 +4,15 @@ title: Privacy
 permalink: /privacy/
 ---
 
-## Required Device Permissions
+Here's CoThings's default privacy policy. Since CoThings is open source, anyone can distribute the applications, so you should check their privacy policy. The privacy policy can be found on the server home page and mobile application's About screen and Boarding screen which shows on the very first launch of the application.
+
+## Required Device Permissions for mobile application (iOS)
 
 * ### Location (Allow Always)
 
 In order to monitoring beacons to update the rooms status automatically while the app is inactive (not running) we need location permission to be authorized "**Always**" unless you want to open the app every time. It's totally up to you. First, it will ask you for "**While Using The App**" first, later it will ask you to change "**Always** (in Background)"
 
-* ### Notification
+* ### Local Push Notification
 You can enable local push notication to let know when you enter / exit the rooms in Settings.
 
 ## CoThings does not
